@@ -1,4 +1,5 @@
 # tensorflow_estimator_tutorial
+- The tensorflow version is out of date, please pay attention to the version problem. 
 **Enjoy tf.estimator**
 
 ## 代码结构
